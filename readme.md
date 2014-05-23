@@ -1,7 +1,7 @@
 # 同济Maven私服
 ## 介绍
 
-亲爱的小伙伴们，同济的 Maven 库上线咯！为了方便广大同济开发同学，我搭建了一个 Maven 中央库，提供高速稳定的网络和服务，为校内 Maven 使用者提供便捷服务。本 Maven 库是从 官方 同步过来的，因为网络等原因，保持每天一次更新。本 Maven 库使用开源软件 Nexus 搭建，对外镜像链接地址为：  http://maven.oschina.net/content/groups/public/  。
+亲爱的小伙伴们，同济的 Maven 库上线咯！为了方便广大同济开发同学，我搭建了一个 Maven 中央库，提供高速稳定的网络和服务，为校内 Maven 使用者提供便捷服务。本 Maven 库是从 官方 同步过来的，因为网络等原因，保持每天一次更新。本 Maven 库使用开源软件 Nexus 搭建，对内镜像链接地址为：  http://maven.gettongji.info/content/groups/public/  。
 
 ## 使用
 
